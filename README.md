@@ -1,1 +1,1 @@
-Scan automatically
+1Scan automatically
