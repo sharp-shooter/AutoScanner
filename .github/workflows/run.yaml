@@ -1,4 +1,4 @@
-name: incloud
+name: AutoRun
 
 on:
     workflow_dispatch:
